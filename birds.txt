@@ -1,3 +1,6 @@
+- Parrots
+- Cockatoos
+- Emu
 - Mourning Dove
 - Northern Cardinal
 - Blue Jay

@@ -1,3 +1,6 @@
+- Peacock
+- Raptor
+- Hawk
 - Parrots
 - Cockatoos
 - Emu
